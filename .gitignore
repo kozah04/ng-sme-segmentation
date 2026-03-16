@@ -1,0 +1,18 @@
+# data
+data/raw/
+data/processed/
+
+# outputs
+outputs/figures/
+outputs/models/
+
+# environment
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+*.egg-info/
+.env
+
+# OS
+.DS_Store
+Thumbs.db
